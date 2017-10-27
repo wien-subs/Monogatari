@@ -1,2 +1,4 @@
 # Monogatari
-Monogatari Series
+Demo: https://wien-subs.github.io/Monogatari/index.html
+
+I hope you enjoy.
